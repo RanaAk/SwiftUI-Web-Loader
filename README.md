@@ -44,7 +44,7 @@ To run this project on your local machine, follow these steps:
 
 <!-- ### Main Screen
 
-![Main Screen](SwiftUI-Web-Loader/MainScreen.png) -->
+![Main Screen](SwiftUI-Web-Loader/MainScreen.png)  -->
 
 ## Requirements
 
